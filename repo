@@ -1,0 +1,4 @@
+$ mkdir example
+$ cd example
+$ git init
+Initialized empty Git repository in /home/jima/tmp/example/.git/
